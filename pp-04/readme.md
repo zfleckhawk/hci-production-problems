@@ -25,11 +25,11 @@ Small commits to your Production Problems repository that include:
 2. an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guideline One (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline One (URL): https://material.io/design/layout/spacing-methods.html#baseline
+* Describe how you implemented that guideline in your sketch: Following spacing guidelines, I wanted to ensure it not only looked good but those spacing methods were met between elements including labels, dropdown menus, and all other buttons available.
 
-* HCI Guideline Two (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline Two (URL): https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/
+* Describe how you implemented that guideline in your sketch: I choose a monochromatic color scheme, similar to their current color scheme, as not to be too jarring in old design to new. I wanted there to be consistency within the design.
 
-* HCI Guideline Three (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline Three (URL): https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/system-icons/
+* Describe how you implemented that guideline in your sketch: I took Apple's icons into inspiration when implementing the icons in the login, shopping cart, and dropdown arrows. I considered adding a small bit of text underneath those icons that also say what they are.
